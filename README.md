@@ -37,7 +37,7 @@ This repository serves as a personal academic archive and study resource for fut
 
 # 👨‍🏫 Course Instructor
 
-## **Dr. S. M. Jahangir Alam**
+## **Professor Dr. S. M. Jahangir Alam**
 **Designation: Professor**  
 Department of Computer Science & Engineering (CSE)  
 Bangladesh Army University of Science and Technology (BAUST), Saidpur
